@@ -8,7 +8,7 @@
 
 I’m a creative WordPress Developer based and theme expert from Adelaide, Australia, with copywriting smarts. I have stitched strategy, words and code for corporates and creatives, helping them convert followers into customers. My jams are web design, UX writing & copywriting, but I also cast spells with visual design, SEO strategy & content marketing.
 
-When you boil it down, I’m a sucker for bloody good design :vampire_woman:, magical conversion copywriting :robot:, spine-chilling CSS :ghost:, ghoulish strategy led development, & uncanny information design
+When you boil it down, I’m a sucker for bloody good design :vampire_woman:, magical conversion copywriting :fairy_woman:, spine-chilling CSS :ghost:, ghoulish full-stack development :zombie_woman:, & uncanny content led strategic development 🍯.
 
 
 ### :mage_woman: My Coding Spellbook Includes
@@ -21,6 +21,15 @@ When you boil it down, I’m a sucker for bloody good design :vampire_woman:, ma
 📞 Web APIs ==> GitHub, Gravatar, Moment.js => using axios <br/>
 🎨 Design ==> CSS3, Boostrap4, Foundation, CSS Grids + Flexbox <br/>
 ♥️ Adobe CC ==> Photoshop, XD, InDesign, Illustrator <br/>
+
+### 🥡🥢 My Web Development Recipe
+
+🌯 5 parts Brand Strategy <br/>
+🌮 3 parts Web Development <br/>
+🍕 2 parts Visual Design <br/>
+🍟 1 part  Content <br/> 
+🍔 1 dash of Passion <br/>
+
 
 ### 🎃 Fun Facts
 
