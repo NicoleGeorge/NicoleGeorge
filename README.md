@@ -38,9 +38,10 @@ When you boil it down, I’m a sucker for bloody good design :vampire_woman:, ma
 
 When I’m not coding, you can often find me reading comic books or political thrillers, listening to Marina & The Diamonds while scrolling Instagram, drinking coffee from a pop culture mug or watching The X-Files or The Office (US)...again.
 
-🏆 Arnold Schwarzenegger Movie Quote Riff-Off Champion <br/>
-🕹️ Tooth Invaders wooden spoon recipent '91 - '99 <br/>
 🧵👗 Former fashion designer <br/>
+🏆 Arnold Schwarzenegger Movie Quote Riff-Off Champion 2007 <br/>
+🕹️ Tooth Invaders wooden spoon recipent '91 - '99 <br/>
+🍿 EPIC pop culture Nerd <br/>
 🥋 ...Cobra Kai Never Die
 
 ### 💾 find me on the interwebs
