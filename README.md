@@ -30,6 +30,9 @@ When you boil it down, I’m a sucker for bloody good design :vampire_woman:, ma
 🍟 1 part  Content <br/> 
 🍔 1 dash of Passion <br/>
 
+🍵 Boil it up in your cauldron...Abracadabra...Bibbidi-Bobbidi-Boo & Shazam ⚡ Perfection!
+
+[Contact Me 📧](mailto:hello@nicolegeorge.com.au?subject=[GitHub]%20Source%20Han%20Sans)
 
 ### 🎃 Fun Facts
 
