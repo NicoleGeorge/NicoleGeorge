@@ -6,7 +6,7 @@
 <h3 align="center"> :unicorn: Hello there! My name is Nicole George :space_invader: </h3>
 
 
-I’m a creative WordPress Developer based and theme expert from Adelaide, Australia, with copywriting smarts. I have stitched strategy, words and code for corporates and creatives, helping them convert followers into customers. My jams are web design, UX writing & copywriting, but I also cast spells with visual design, SEO strategy & content marketing.
+I’m a creative WordPress Developer and theme expert from Adelaide, Australia, with copywriting smarts. I have stitched strategy, words and code for corporates and creatives, helping them convert followers into customers. My jams are web design, UX writing & copywriting, but I also cast spells with visual design, SEO strategy & content marketing.
 
 When you boil it down, I’m a sucker for bloody good design :vampire_woman:, magical conversion copywriting :fairy_woman:, spine-chilling CSS :ghost:, ghoulish full-stack development :zombie_woman:, & uncanny content led strategic development 🍯.
 
