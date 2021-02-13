@@ -46,8 +46,8 @@ When I’m not coding, you can often find me reading comic books or political th
 
 ### 💾 find me on the interwebs
 
-[Instagram 🖼️](https://www.instagram.com/nicolegeorge.com.au/) <br/>
+[Instagram 🖼️](https://www.instagram.com/msnicolegeorge/) <br/>
 [LinkedIn 📠](https://www.linkedin.com/in/nicolemariageorge/) <br/>
-[Portfolio 🎓](https://nicolegeorge.github.io/my-portfolio/index.html) <br/>
+[Portfolio 🎓](https://nicolegeorge.com.au) <br/>
 
 
