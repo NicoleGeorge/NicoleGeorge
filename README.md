@@ -1,7 +1,7 @@
 [![Header Image](https://github.com/NicoleGeorge/NicoleGeorge/blob/main/Github%20Profile%20header.jpg)](https://www.nicolegeorge.com.au/)
 
 <p align="center">
-<a href="https://dev.to/nicolegeorge" rel="nofollow"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/raw/main/icon/dev.png?raw=true" style="max-width:100%;" target="_blank"></a> <a href="https://www.linkedin.com/in/nicolemariageorge/" rel="nofollow"><img height="30" src="https://github.com/NicoleGeorge/NicoleGeorge/blob/main/010-linkedin.png?raw=true" style="max-width:100%;" target="_blank"></a> <a href="https://www.instagram.com/nicolegeorge.com.au/" rel="nofollow"><img height="30" src="https://github.com/NicoleGeorge/NicoleGeorge/blob/main/011-instagram.png?raw=true" style="max-width:100%;" target="_blank"></a> 
+<a href="https://dev.to/nicolegeorge" rel="nofollow"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/raw/main/icon/dev.png?raw=true" style="max-width:100%;" target="_blank"></a> <a href="https://www.linkedin.com/in/nicolemariageorge/" rel="nofollow"><img height="30" src="https://github.com/NicoleGeorge/NicoleGeorge/blob/main/010-linkedin.png?raw=true" style="max-width:100%;" target="_blank"></a> <a href="https://www.instagram.com/msnicolegeorge/" rel="nofollow"><img height="30" src="https://github.com/NicoleGeorge/NicoleGeorge/blob/main/011-instagram.png?raw=true" style="max-width:100%;" target="_blank"></a> 
 </p>
 <h3 align="center"> :unicorn: Hello there! My name is Nicole George :space_invader: </h3>
 
@@ -25,9 +25,9 @@ When you boil it down, I’m a sucker for bloody good design :vampire_woman:, ma
 ### 🥡🥢 My Web Development Recipe
 
 🌯 5 parts Brand Strategy <br/>
-🌮 3 parts Web Development <br/>
-🍕 2 parts Visual Design <br/>
-🍟 1 part  Content <br/> 
+🌮 4 parts Web Development <br/>
+🍕 3 parts Visual Design <br/>
+🍟 2 part  Content <br/> 
 🍔 1 dash of Passion <br/>
 
 🍵 Boil it up in your cauldron...Abracadabra...Bibbidi-Bobbidi-Boo & Shazam ⚡ Perfection!
