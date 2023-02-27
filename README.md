@@ -1,8 +1,12 @@
-Hi, I'm Nicole 👋
+Hi, I'm Nicole 👋🏻
 
-👾 I'm a Software Engineer & Tech/UX writer from Australia.
+👩🏻‍💻 I'm a Software Engineer & Tech/UX writer from Australia.
 
-📼 Currently building a nostalgic UI elements and component library and documenting the process over on Twitter. 
+📼 Currently creating a nostalgic UI elements and component library for modern developers.
+
+💾 Building in public & documenting the process on Twitter. 
+
+
 
 [Twitter 🪩](https://twitter.com/msnicolegeorge_) <br/> 
 [Instagram 📷](https://www.instagram.com/msnicolegeorge/) <br/>
